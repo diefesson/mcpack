@@ -233,14 +233,6 @@ file = "config/malum-common.toml"
 hash = "a23c8925a4af8ea23279f98c82c6699a6961fa4c41134395ad176e2afa3864d3"
 
 [[files]]
-file = "config/map_atlases-client.toml"
-hash = "6f24a48a4a1ea5d396e1e15878793ba5806a2884f1ef4395803a51d30f8c9af0"
-
-[[files]]
-file = "config/map_atlases-common.toml"
-hash = "6a32791dd1c41f1e1fba192643af44779521f299e0e88f3fd60d37c74d66fbae"
-
-[[files]]
 file = "config/measurements-client.toml"
 hash = "225740e9e6c866240629cdd0b584a4278462eea1e8bdf1ec88ec42651248270b"
 

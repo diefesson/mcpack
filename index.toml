@@ -1127,11 +1127,6 @@ hash = "39d576bdf14b906a1e6b11154473f5fb9444919aed049f3841779c9afce65359"
 metafile = true
 
 [[files]]
-file = "mods/justenoughbreeding.pw.toml"
-hash = "f517f757ca25c9ff020d7b290b0724a13fd9ddd9e6c2a2fd1354b312e768223f"
-metafile = true
-
-[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "7ea985404ee4cc9082472c6869ec146309f526e395361b39f2f4c1a43506c41d"
 metafile = true

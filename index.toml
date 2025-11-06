@@ -489,7 +489,7 @@ hash = "ec3d4132a1b565069354e2e269c7f4d0974e187e224d1c3a77d2e23e68acccb6"
 
 [[files]]
 file = "defaultconfigs/immersiveengineering-server.toml"
-hash = "832b52346647ee5c17c087d740ef8dfa7a6d22f0733161d745e17f758eef0460"
+hash = "c3d0242b55ec6a4f600f4c7453d64b48e2bf2506ecd5788b11494643c4e4530f"
 
 [[files]]
 file = "defaultconfigs/railcraft-server.toml"

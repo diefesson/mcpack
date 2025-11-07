@@ -712,11 +712,6 @@ hash = "c410ef1d053db4fc3fccde5331fa3ebac561e0e2f6f4babe9110b9c322fbc95a"
 metafile = true
 
 [[files]]
-file = "mods/better-burning.pw.toml"
-hash = "63ba46a73b84ef9bc655a18fbff13b80681b0064cdad9e50ea1dc9770e34fdd7"
-metafile = true
-
-[[files]]
 file = "mods/better-combat.pw.toml"
 hash = "f2772ac30db5760b191049f87d2315f1652d9b04357e644df9d8a2bafdc269e5"
 metafile = true
@@ -849,11 +844,6 @@ metafile = true
 [[files]]
 file = "mods/creativecore.pw.toml"
 hash = "9582c04926dd9cea7f68f6f1b4e068bd2ec3f6fcb2734497d885364c6b74b1e1"
-metafile = true
-
-[[files]]
-file = "mods/cull-less-leaves-reforged.pw.toml"
-hash = "df9ee07891e8347da9c0eef226a2043ab9299fdc8b2350c93a78af9c37455ee7"
 metafile = true
 
 [[files]]
@@ -1372,11 +1362,6 @@ hash = "bbdd40b650286973d44b1931d4b8c4bcc02b02f2c5583545709347503bd13057"
 metafile = true
 
 [[files]]
-file = "mods/redstone-arsenal.pw.toml"
-hash = "e361630ef4d787c2eb1aa38c35935e0a7db10a6cb9dcdb5edb2956e4fa3047ac"
-metafile = true
-
-[[files]]
 file = "mods/repurposed-structures-forge.pw.toml"
 hash = "ff248b41e2739641c22ce328dd436eb73b96d3249eebec3f39a277446a3e6481"
 metafile = true
@@ -1412,16 +1397,6 @@ hash = "b8c7497acbf4890b4609b6b20de7affdd3482fc99af975d9ff6b29c075e1d8a7"
 metafile = true
 
 [[files]]
-file = "mods/seasonals.pw.toml"
-hash = "c6f879c97d9f8b015d371d4d05ff018328d0890b3786235af3f565df0ba4c7c2"
-metafile = true
-
-[[files]]
-file = "mods/shield-banner-fix.pw.toml"
-hash = "bf227a8d1bafde9f421807f4557d7012cd850f1795e3fa5084911a82dc31961e"
-metafile = true
-
-[[files]]
 file = "mods/skinrestorer.pw.toml"
 hash = "e63ae372407e332a7eff9365443685c0662f185eab65ca849d5306675d698c44"
 metafile = true
@@ -1454,11 +1429,6 @@ metafile = true
 [[files]]
 file = "mods/species.pw.toml"
 hash = "50d0cb105f5db0a982d9c00f5ea6aee826866576b796526686ab0877c912e968"
-metafile = true
-
-[[files]]
-file = "mods/stack-refill.pw.toml"
-hash = "d752b843672914045093b09d87f4e33f6b990638be3955d1a4da7bc8c97a0c71"
 metafile = true
 
 [[files]]
@@ -1507,23 +1477,8 @@ hash = "14117b94c456598c9acece143c7a0da3cf56d13182d035a74a2da8a52dd19cbd"
 metafile = true
 
 [[files]]
-file = "mods/titanium.pw.toml"
-hash = "351aef144aa70ab4f41b3dcf044e0929631227f1ad118f22e611e13ff91fdfe4"
-metafile = true
-
-[[files]]
 file = "mods/tool-stats.pw.toml"
 hash = "a8ac59bbcb665b5d76a03a4d5f9847c931fb773dc3181957ce0c242a6132d88b"
-metafile = true
-
-[[files]]
-file = "mods/totw-modded.pw.toml"
-hash = "692960348d6f2f5b587412c677524ba15dc39b29bfcf19ca5798492c0462a040"
-metafile = true
-
-[[files]]
-file = "mods/towers-of-the-wild-additions.pw.toml"
-hash = "e47935f71c9e6ceb21ec1be3b1db0ed512d463ed3b9cc555b8d5788d2550fe1f"
 metafile = true
 
 [[files]]
@@ -1542,11 +1497,6 @@ hash = "6a249583abaec5492b693b8a19e1b42abb338af6517f92004c86471df57ddfc0"
 metafile = true
 
 [[files]]
-file = "mods/treechop.pw.toml"
-hash = "f156304cd261a234aee02630dc33e8ad6b3a10898d5b0a7069d1a88f9b607813"
-metafile = true
-
-[[files]]
 file = "mods/txnilib.pw.toml"
 hash = "c2df41a37fec3a93afc4e2866705bf9e457d506ce8cd02e61c2f610d4f6a7617"
 metafile = true
@@ -1554,11 +1504,6 @@ metafile = true
 [[files]]
 file = "mods/upgrade-aquatic.pw.toml"
 hash = "909482378bf0ed15645bcbba896daf9e83b7ef4e100bc44d6d3a34090f13578f"
-metafile = true
-
-[[files]]
-file = "mods/vein-mining.pw.toml"
-hash = "9995c722c5e91bfa41786168d0079ffd7dd885547995feca54e8790807886603"
 metafile = true
 
 [[files]]

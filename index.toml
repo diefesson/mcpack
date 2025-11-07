@@ -1366,6 +1366,11 @@ hash = "bbdd40b650286973d44b1931d4b8c4bcc02b02f2c5583545709347503bd13057"
 metafile = true
 
 [[files]]
+file = "mods/redirected.pw.toml"
+hash = "e6a6271d5f360df60467751651242b3eb6cc86f3e1fb94def2b32427080f7bd7"
+metafile = true
+
+[[files]]
 file = "mods/repurposed-structures-forge.pw.toml"
 hash = "ff248b41e2739641c22ce328dd436eb73b96d3249eebec3f39a277446a3e6481"
 metafile = true

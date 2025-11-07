@@ -830,6 +830,11 @@ hash = "9eefd607e0d54ec444e798ccdeede1a09a3939440bd1e11c11b84c07a5134be2"
 metafile = true
 
 [[files]]
+file = "mods/cut-through.pw.toml"
+hash = "b64e0bcd7299d5f773d7e7937d141c1c55803a3077de6f242db972853b11990b"
+metafile = true
+
+[[files]]
 file = "mods/cyclops-core.pw.toml"
 hash = "78de4f5dfb301a36ded77f64f5231da9a6f42c0f728ad7c3abdd1b45ae820fff"
 metafile = true

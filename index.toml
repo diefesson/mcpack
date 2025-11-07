@@ -105,6 +105,10 @@ file = "config/cull-less-leaves.json"
 hash = "6bc92f3695f35c601c2adfa1f51e9f616df379288f2a260fd1f4011c5bad50ee"
 
 [[files]]
+file = "config/delightful-common.toml"
+hash = "f97a261e44db861e0400eaa27a006f4ccbd199d6c4ce2758c1924ff30723ca10"
+
+[[files]]
 file = "config/distraction_free_recipes-client.toml"
 hash = "cac1af8c3743486fab4cd555862942e471cb3f1781c6e0681d74aa4be7259ed1"
 

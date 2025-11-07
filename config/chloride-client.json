@@ -29,7 +29,7 @@
   "darknessDimensionWhiteList": [],
   "darknessOnNoSkyLight": false,
   "darknessBlockLightOnly": false,
-  "darknessAffectedByMoonPhase": true,
+  "darknessAffectedByMoonPhase": false,
   "darknessNewMoonBright": 0.0,
   "darknessFullMoonBright": 0.35,
   "hideJREMI": false,

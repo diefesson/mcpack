@@ -74,7 +74,7 @@ hash = "2697f81d15401de3729b765a4f5e80095e70710cfa4236c1e280cfaa9d1471fd"
 
 [[files]]
 file = "config/chloride-client.json"
-hash = "2e56485925c3be0533ea460af0cd2509e77741cd70fdb821e3eab0365d0095e7"
+hash = "4798c45d28370053e4fa3889bcb9fa7227a47c04845d2fe10a2235d8cf080df9"
 
 [[files]]
 file = "config/clienttweaks-common.toml"

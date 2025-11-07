@@ -25,10 +25,6 @@ file = "config/barteringstation-server.toml"
 hash = "c72135b7dc64f2c49c34e9ae2ccc746d2c4248d3182a18a712d41e3b9ce02322"
 
 [[files]]
-file = "config/betterburning-common.toml"
-hash = "18f723bd32d90827e317b9184fef7cdaf5a2703f985ee875a0405cae13d5cac8"
-
-[[files]]
 file = "config/betterdungeons-forge-1_20.toml"
 hash = "67e7e94693c7ca0945fe1b7e08639cdf4faad9a8e1eec2b029bf414539113753"
 
@@ -486,10 +482,6 @@ hash = "ec3d4132a1b565069354e2e269c7f4d0974e187e224d1c3a77d2e23e68acccb6"
 [[files]]
 file = "defaultconfigs/immersiveengineering-server.toml"
 hash = "c3d0242b55ec6a4f600f4c7453d64b48e2bf2506ecd5788b11494643c4e4530f"
-
-[[files]]
-file = "defaultconfigs/railcraft-server.toml"
-hash = "4aeea5867294030fa5136ebd9afa76b3a5fe497470c3969f18b756e5d42f2d12"
 
 [[files]]
 file = "defaultconfigs/sophisticatedbackpacks-server.toml"

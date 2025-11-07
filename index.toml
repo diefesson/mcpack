@@ -237,6 +237,10 @@ file = "config/measurements-client.toml"
 hash = "225740e9e6c866240629cdd0b584a4278462eea1e8bdf1ec88ec42651248270b"
 
 [[files]]
+file = "config/merequester-common.toml"
+hash = "57c149b9016251e516ceedfba8eb2a6ae8f8daad1080d9371c2cd5d624807ff7"
+
+[[files]]
 file = "config/naturescompass-client.toml"
 hash = "f8666a691705e3a16363680504954d2bc5bcaa8bfed874fcd34f616a2a59905b"
 

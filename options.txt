@@ -77,6 +77,7 @@ key_gui.xaero_zoom_in:key.keyboard.keypad.add
 key_gui.xaero_zoom_out:key.keyboard.keypad.subtract
 key_info.structure_gel.building_tool.redo:key.keyboard.unknown
 key_info.structure_gel.building_tool.undo:key.keyboard.unknown
+key_key.advancements:key.keyboard.l
 key_key.ae2.portable_fluid_cell:key.keyboard.unknown
 key_key.ae2.portable_item_cell:key.keyboard.unknown
 key_key.ae2.wireless_terminal:key.keyboard.unknown
@@ -206,7 +207,6 @@ key_key.trashslot.deleteAll:key.keyboard.delete:ALT
 key_key.trashslot.toggle:key.keyboard.unknown
 key_key.trashslot.toggleLock:key.keyboard.unknown
 key_key.use:key.mouse.right
-key_key.veinmining.activate.desc:key.keyboard.unknown
 key_keybind.sophisticatedbackpacks.inventory_interaction:key.keyboard.unknown
 key_keybind.sophisticatedbackpacks.open_backpack:key.keyboard.b
 key_keybind.sophisticatedbackpacks.toggle_upgrade_1:key.keyboard.unknown
@@ -219,9 +219,6 @@ key_keybind.sophisticatedcore.deposit_item:key.keyboard.apostrophe
 key_keybind.sophisticatedcore.item_highlight:key.keyboard.semicolon
 key_keybind.sophisticatedcore.restock_item:key.keyboard.backslash
 key_keybind.sophisticatedcore.sort:key.mouse.middle
-key_keybinds.bettercombat.feint:key.keyboard.unknown
-key_keybinds.bettercombat.toggle_mine_with_weapons:key.keyboard.unknown
-key_keybinds.combatroll.roll:key.keyboard.r
 key_neat.keybind.toggle:key.keyboard.unknown
 key_pneumaticcraft.armor.options:key.keyboard.p
 key_pneumaticcraft.armor.upgrade.air_conditioning:key.keyboard.unknown
@@ -259,10 +256,6 @@ key_pneumaticcraft.boots.kick:key.keyboard.unknown
 key_pneumaticcraft.chestplate.launcher:key.keyboard.unknown
 key_pneumaticcraft.helmet.debugging.drone:key.keyboard.unknown
 key_pneumaticcraft.helmet.hack:key.keyboard.unknown
-key_treechop.key.cycle_sneak_behavior:key.keyboard.unknown
-key_treechop.key.open_settings_overlay:key.keyboard.unknown
-key_treechop.key.toggle_chopping:key.keyboard.g
-key_treechop.key.toggle_felling:key.keyboard.unknown
 lang:en_us
 lastServer:
 mainHand:"right"

@@ -785,11 +785,6 @@ hash = "903352ffbd84d4b95fed905893f4715d9c3f88ec9fff6fb06f6e359e0b839dc3"
 metafile = true
 
 [[files]]
-file = "mods/cofh-core.pw.toml"
-hash = "2851d6afaaef7a6295ad252746fd4d200e96f7e85c24f11dca9be06ad221b41b"
-metafile = true
-
-[[files]]
 file = "mods/collective.pw.toml"
 hash = "2a3241dca24d8c8a2914f46abd7ba1632f9a142c0b4adaf7f07e07f842fa54ee"
 metafile = true
@@ -937,11 +932,6 @@ metafile = true
 [[files]]
 file = "mods/engineered-compatibility.pw.toml"
 hash = "d101ff458c12295e3d292a0efab484ed48ad6d2540c7232007091c6d8c174db4"
-metafile = true
-
-[[files]]
-file = "mods/ensorcellation.pw.toml"
-hash = "6047057f4da3267df6cfb7fcf09ac599b66862282eeab24915fe49aa80ec0ec9"
 metafile = true
 
 [[files]]

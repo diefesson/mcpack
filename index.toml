@@ -81,6 +81,14 @@ file = "config/clienttweaks-common.toml"
 hash = "76eeb924599e36c43be01d72f0179fd029bcd818b08a46bbd9497a14a6f895d6"
 
 [[files]]
+file = "config/combatnouveau-client.toml"
+hash = "23d4c328e4e061bf7d3599864fb1253b61a75dcaf183371951e0bf9f08119c58"
+
+[[files]]
+file = "config/combatnouveau-server.toml"
+hash = "298e8f7668f4d3ceb737afe3940639cfad125c93d2a1dff51bdc7522045edfc4"
+
+[[files]]
 file = "config/delightful-common.toml"
 hash = "f97a261e44db861e0400eaa27a006f4ccbd199d6c4ce2758c1924ff30723ca10"
 
@@ -721,6 +729,11 @@ metafile = true
 [[files]]
 file = "mods/collectors-reap.pw.toml"
 hash = "2af2779d9bd720fc0bbb827e58dbe837969685f415be03ab9b6beff4b5dcc106"
+metafile = true
+
+[[files]]
+file = "mods/combat-nouveau.pw.toml"
+hash = "edc2e3529690c08648a94d72876f0d2fa99f0d3b8f08a4338a9d3fe7834cfc79"
 metafile = true
 
 [[files]]

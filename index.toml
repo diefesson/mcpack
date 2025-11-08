@@ -281,7 +281,7 @@ hash = "d2ccb4a21fae53a0b310ec3f1f2dee8d428278b3a18506ac8a297bfdba5da377"
 
 [[files]]
 file = "config/pneumaticcraft-common.toml"
-hash = "7a6a82872c7fc8a582cee3643cf0f30a8adc2ad6627e39cbf38c8d5d351bf1f4"
+hash = "82d437bc12267025db0cef44086c305a0d1458e0a947b807ea3d6b4f4e5fb456"
 
 [[files]]
 file = "config/pneumaticcraft/ArmorFeatureStatus.cfg"
@@ -460,6 +460,66 @@ file = "kubejs/config/probe-settings.json"
 hash = "8ceebd0a215f8f4581c030ec97afbe499753a8ce836f50e98bc2e3e5a4593618"
 
 [[files]]
+file = "kubejs/data/caverns_and_chasms/modifiers/loot_tables/abandoned_mineshaft.json"
+hash = "74d81b21c7f42c4b8990e55fe657c4c1cfb1b5d4d4a546c0564b4332d7310df0"
+
+[[files]]
+file = "kubejs/data/caverns_and_chasms/modifiers/loot_tables/buried_treasure.json"
+hash = "e8f0430032e74a7acc800cc04c3d56fd9abe4340cc6bc530db85dcaa2d74c62c"
+
+[[files]]
+file = "kubejs/data/caverns_and_chasms/modifiers/loot_tables/desert_pyramid.json"
+hash = "e5f47650fd184a27dbf8f67cb9c82b34641966c860ec250dccee7db5fa38137b"
+
+[[files]]
+file = "kubejs/data/caverns_and_chasms/modifiers/loot_tables/end_city_treasure.json"
+hash = "2fec281cbcf56e5f8bdc3af52ec5dd699c63b53932cf24d33835aaffead88b5c"
+
+[[files]]
+file = "kubejs/data/caverns_and_chasms/modifiers/loot_tables/jungle_temple.json"
+hash = "fe80d2df2907c12df4d2ad8ad121ad223f7ce1ad956d06140e38481590be7322"
+
+[[files]]
+file = "kubejs/data/caverns_and_chasms/modifiers/loot_tables/kousa_sanctum.json"
+hash = "b363413e0ce6fefc1994a428a22f581bc5aba023d6842b3d5886ac71df0b66f0"
+
+[[files]]
+file = "kubejs/data/caverns_and_chasms/modifiers/loot_tables/nether_bridge.json"
+hash = "99ed2b5f7f7fd783f256d5490a8c889ffcf9334d02cf128d78d1c30125441048"
+
+[[files]]
+file = "kubejs/data/caverns_and_chasms/modifiers/loot_tables/shipwreck_treasure.json"
+hash = "ac7a7972b3c9a613bf563467b3b8d9215dd926c7be6d54dc9e9e8fb91bbeef59"
+
+[[files]]
+file = "kubejs/data/caverns_and_chasms/modifiers/loot_tables/simple_dungeon.json"
+hash = "79ee9c1856b751df7abcc3f3ae59cc4e5e972d33cf9d42651c82ecd3a7b940c7"
+
+[[files]]
+file = "kubejs/data/caverns_and_chasms/modifiers/loot_tables/stronghold_corridor.json"
+hash = "2a8f621ac3b88fd0e20b06b9e590741ca46ba347665931d891af98f246445c04"
+
+[[files]]
+file = "kubejs/data/caverns_and_chasms/modifiers/loot_tables/stronghold_crossing.json"
+hash = "5d6c14bc0b32e9257fec252863ab03a55141d936ddccaf6826d6f21ea577917a"
+
+[[files]]
+file = "kubejs/data/caverns_and_chasms/modifiers/loot_tables/village_temple.json"
+hash = "42ed27be1411f07be947e773dbf5b105e48b8e3b086cb2d0c27f450dc3aefbe4"
+
+[[files]]
+file = "kubejs/data/caverns_and_chasms/modifiers/loot_tables/village_toolsmith.json"
+hash = "0966de2c0a8186cc6cafd22f8b07ee31956bb18237e8b5a3ced6bee312df278c"
+
+[[files]]
+file = "kubejs/data/caverns_and_chasms/modifiers/loot_tables/village_weaponsmith.json"
+hash = "e27fcfb5d675b0fc309c12d43965aaaea30c7497aed9174984a20110ab18c250"
+
+[[files]]
+file = "kubejs/data/caverns_and_chasms/modifiers/loot_tables/woodland_mansion.json"
+hash = "df7c19258350364ac71192a217b32e69bd86c8e7ddb4ba5a3ac5ae1f68a49118"
+
+[[files]]
 file = "kubejs/data/caverns_and_chasms/worldgen/configured_feature/ore_silver.json"
 hash = "03d67df46a5094d935c467d07179116e3579478685c476886bc7d0f87336b937"
 
@@ -478,6 +538,10 @@ hash = "03d67df46a5094d935c467d07179116e3579478685c476886bc7d0f87336b937"
 [[files]]
 file = "kubejs/data/embers/worldgen/configured_feature/ore_silver.json"
 hash = "03d67df46a5094d935c467d07179116e3579478685c476886bc7d0f87336b937"
+
+[[files]]
+file = "kubejs/data/minecraft/loot_tables/entities/silverfish.json"
+hash = "7a019beace11bc98ccab168ddfd903b7f030b0d1e67c7cfdaae360c226387188"
 
 [[files]]
 file = "kubejs/jsconfig.json"

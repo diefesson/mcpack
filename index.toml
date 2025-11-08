@@ -217,6 +217,10 @@ file = "config/neat-client.toml"
 hash = "0ce846e6837319493aac6930404cdd76112036758225daf0d8da1a9087153326"
 
 [[files]]
+file = "config/netherexp-common.toml"
+hash = "7dc017587f20452d0e06e4f3f7e0780d2fa3ac4d1c9f565886ac73ff9c23a5ee"
+
+[[files]]
 file = "config/patchouli-client.toml"
 hash = "2258a7bc662629063219e5667e459e3877a6dd27e3ee935e508fac16227aee36"
 
@@ -817,6 +821,11 @@ hash = "f04c6bc722bee9b7f66eb9a1fd6abc016b60c77fc1c9ae05f8dd4a24225a2709"
 metafile = true
 
 [[files]]
+file = "mods/elysium-api.pw.toml"
+hash = "4e77452de64a8038260a173a36702830e264bf23b47bc12f33ebbcdc52e8d519"
+metafile = true
+
+[[files]]
 file = "mods/embeddium.pw.toml"
 hash = "5ec0c37f3f4ad07a40c10376668bca80334ddb7ad2bab06eb4de8f7aac339c8e"
 metafile = true
@@ -1019,6 +1028,11 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "0fbcc8cf03336e6bed425e2115fc4ff1a3a05be5c655228b305e70380eb08b57"
+metafile = true
+
+[[files]]
+file = "mods/jadens-nether-expansion.pw.toml"
+hash = "18fdaa8b6729867b1862ea80eba84effc90f63b8d230eb529c5a949b30ae2695"
 metafile = true
 
 [[files]]

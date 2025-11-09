@@ -1,6 +1,6 @@
 name = "DiefAlpha MCPack"
 author = "DieAlpha"
-version = "1.20.1-1.0.0-dev"
+version = "1.20.1-1.0.0-preview1"
 pack-format = "packwiz:1.1.0"
 
 [index]

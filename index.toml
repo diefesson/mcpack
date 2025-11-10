@@ -581,7 +581,7 @@ hash = "50c0989c7dba4f2a80cd33b35b193a6dbfac3c6aaf310b2cc890bffca787e4db"
 
 [[files]]
 file = "kubejs/server_scripts/src/embers/disabled_items.js"
-hash = "98b73a32fe05618675a96a916a9e9841110a343ee280faf00a046ff797785720"
+hash = "64034a65707cdd2482fdb3024a2e8cee593ff97447c90bf7c0299b7b3697b310"
 
 [[files]]
 file = "kubejs/server_scripts/src/minecraft/bell.js"
@@ -762,6 +762,11 @@ metafile = true
 [[files]]
 file = "mods/chloride.pw.toml"
 hash = "5fffcedde4d14f05b332a6a70680340ae2021d2697b45e49ffedb073abcb7c5c"
+metafile = true
+
+[[files]]
+file = "mods/chunk-loaders.pw.toml"
+hash = "1171ef431ac21929d77df6f39e3f611da22a55f692395d8be0fc67f8ebf47c85"
 metafile = true
 
 [[files]]
@@ -1142,11 +1147,6 @@ metafile = true
 [[files]]
 file = "mods/lmft.pw.toml"
 hash = "dbd137b861d4c78ca28a1a95a7df72b6f3f0d9cd13a31ae6eed0986094a7924b"
-metafile = true
-
-[[files]]
-file = "mods/load-my-chunks.pw.toml"
-hash = "14862ba5b1df3288b6f0825baf251b255008bf33c1ab3245290f767f8ee49fbf"
 metafile = true
 
 [[files]]

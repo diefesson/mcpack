@@ -14,6 +14,6 @@ ServerEvents.recipes(event => {
 
 ServerEvents.tags('item', event => {
     for(let item of _disabledEmbersItems){
-        // event.add('c:hidden_from_recipe_viewers', item)
+        event.add('c:hidden_from_recipe_viewers', item)
     }
 })

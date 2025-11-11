@@ -45,6 +45,7 @@ incompatibleResourcePacks:[]
 invertYMouse:false
 joinedFirstServer:true
 key_chloride.zoom:key.keyboard.unknown
+key_chunkloaders.keys.open_screen:key.keyboard.o
 key_framedblocks.key.update_cull:key.keyboard.f9
 key_framedblocks.key.wipe_cache:key.keyboard.unknown
 key_gui.xaero_alternative_list_players:key.keyboard.unknown
@@ -88,8 +89,6 @@ key_key.chat:key.keyboard.t
 key_key.clienttweaks.disableLogStripping:key.keyboard.unknown
 key_key.clienttweaks.disableStepAssist:key.keyboard.unknown
 key_key.clienttweaks.hideOffhandItem:key.keyboard.unknown
-key_key.cofh.mode_change_decrement:key.keyboard.unknown
-key_key.cofh.mode_change_increment:key.keyboard.unknown
 key_key.command:key.keyboard.unknown
 key_key.craftingtweaks.balance:key.keyboard.unknown
 key_key.craftingtweaks.clear:key.keyboard.unknown

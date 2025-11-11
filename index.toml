@@ -1430,11 +1430,6 @@ hash = "e56e60b6dabffd4b2332ed19c62e6455b7d78a9fb58c810d2185739575c9448a"
 metafile = true
 
 [[files]]
-file = "mods/structure-gel-api.pw.toml"
-hash = "0a1893b4abfd0e7243095240b329552c082dd3fa7874b43e9b43c94812875472"
-metafile = true
-
-[[files]]
 file = "mods/structure-layout-optimizer.pw.toml"
 hash = "4153420b7d37c65ffe522d6ad72b0a1f88140925290526104a0fbc20b6fad7a7"
 metafile = true

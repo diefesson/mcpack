@@ -18,4 +18,3 @@
 | Immersive Fixes                        | Not needed      |
 | Memory Leak Fix (Leak fixed on 1.21.1) | Not needed      |
 | Forge Config Screens                   | Not Needed      |
-| Structure Gel API                      | Skipped         |

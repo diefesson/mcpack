@@ -1,13 +1,13 @@
 name = "Integrated Tunnels"
-filename = "IntegratedTunnels-1.20.1-1.9.0.jar"
+filename = "IntegratedTunnels-1.20.1-1.9.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Etqy1Omb/versions/g32oTHuE/IntegratedTunnels-1.20.1-1.9.0.jar"
+url = "https://cdn.modrinth.com/data/Etqy1Omb/versions/PbsW54sn/IntegratedTunnels-1.20.1-1.9.2.jar"
 hash-format = "sha512"
-hash = "197f5fae35594cef170e8534f6109f2a6d9bcb99f25f119436b85141d8b1b52258e720f6f8936ec95233a4dad41a6a047a304723eebc960b56818a6c16b2329b"
+hash = "1ea591241555d06bb4ad2b3264a609aa0b981705128fcaa6ca8265f71343c444e6f8c86977a49b0638bd8ed2c06d35a315c39966667c542f91d530d2b16452cb"
 
 [update]
 [update.modrinth]
 mod-id = "Etqy1Omb"
-version = "g32oTHuE"
+version = "PbsW54sn"

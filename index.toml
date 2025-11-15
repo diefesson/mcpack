@@ -170,7 +170,7 @@ hash = "b89a5cd69ea8e9ac8e202d1d01052837cfe9de89072045d25ef31e65b7fa4f34"
 
 [[files]]
 file = "config/integrateddynamics-common.toml"
-hash = "f669601e1b27f7d783f5ee2bee4033a239b31008feae891a3a3390d4b6fcc268"
+hash = "371056e6088a9c8de4b0094ebd7075ff082318a74aed6ef9545aac92d523cf54"
 
 [[files]]
 file = "config/jade/hide-blocks.json"
@@ -846,7 +846,7 @@ metafile = true
 
 [[files]]
 file = "mods/cyclops-core.pw.toml"
-hash = "78de4f5dfb301a36ded77f64f5231da9a6f42c0f728ad7c3abdd1b45ae820fff"
+hash = "6921e786ec0f9d1a782455b815c84aca210f26173756a357a26c32d0866e74dc"
 metafile = true
 
 [[files]]
@@ -1061,12 +1061,12 @@ metafile = true
 
 [[files]]
 file = "mods/integrated-crafting.pw.toml"
-hash = "e8090a2e21c7b3f91faea901715bb6b1d48714789ca9c053511e877a72cf4b3a"
+hash = "7e0e21fc74ca613128061fb9642f8d2b98cb59485f86530b836eea21d9bbcf6a"
 metafile = true
 
 [[files]]
 file = "mods/integrated-dynamics.pw.toml"
-hash = "20f79e016da763f64212ee83bb81905d05c908b1c36e49a0fbd00b17db5634e8"
+hash = "4d00b4952c9e5f5f79f8ef0e1033520663025fcf7a9b50072804391f0105e261"
 metafile = true
 
 [[files]]
@@ -1076,12 +1076,12 @@ metafile = true
 
 [[files]]
 file = "mods/integrated-terminals.pw.toml"
-hash = "7d01aa6d84a1e3d27e35c7d4ac7655d6ce49f739f412a1182acef43f25a755b8"
+hash = "5d93d8b2d6cc0d3acb1c569297df76ec6abfa36b16f99fa570df87339c53bf9d"
 metafile = true
 
 [[files]]
 file = "mods/integrated-tunnels.pw.toml"
-hash = "59567326cac8e2586c2ef14a4b71f9d39f4155f57760fb857a4f803db87cb8c4"
+hash = "248cc68e00a3e06f95adc0b56e705d00bac897d7bd9a7bf38d004ec0eb7a8d69"
 metafile = true
 
 [[files]]

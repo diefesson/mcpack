@@ -17,6 +17,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Nerfed Integrated Dynamics battery capacity
 - Updated Integrated * mods
 
+### Removed
+
+- Removed Jump Over Fences mod
+
 ## [1.0.0-preview3] - 2025-11-14
 
 ### Removed

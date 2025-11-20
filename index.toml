@@ -1110,11 +1110,6 @@ hash = "6d8ca5f4586ae60fe0771ae32a7cb3230030b92fda58d1761c770c24afaa54b2"
 metafile = true
 
 [[files]]
-file = "mods/jump-over-fences.pw.toml"
-hash = "39d576bdf14b906a1e6b11154473f5fb9444919aed049f3841779c9afce65359"
-metafile = true
-
-[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "7ea985404ee4cc9082472c6869ec146309f526e395361b39f2f4c1a43506c41d"
 metafile = true

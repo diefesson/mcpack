@@ -19,7 +19,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Removed
 
-- Removed Jump Over Fences mod
+- Removed Jump Over Fences
+- Removed Illager Invasion
+- Removed Piglin Proliferation
 
 ## [1.0.0-preview3] - 2025-11-14
 

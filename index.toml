@@ -1045,11 +1045,6 @@ hash = "c1d1a0476c58e3c011de6f750f48eb4f48493a1b9cef7bd59c008e87e0c0984c"
 metafile = true
 
 [[files]]
-file = "mods/illager-invasion.pw.toml"
-hash = "de2f38aea5766676305ffff2000100c889b9278583379cfa04bba375ff45b6ec"
-metafile = true
-
-[[files]]
 file = "mods/immersive-fixes.pw.toml"
 hash = "2e36b6b750d7de2d2e21dc8bcf7704eeff3ed51dff67caf3f904e583a9bc7073"
 metafile = true
@@ -1302,11 +1297,6 @@ metafile = true
 [[files]]
 file = "mods/pick-up-notifier.pw.toml"
 hash = "a566e339809d1596f335414f04f8151a56149af191ee3161c2e73a4db7084b3e"
-metafile = true
-
-[[files]]
-file = "mods/piglin-proliferation.pw.toml"
-hash = "b447f99463970b074fcb3003785c7f3a0b01117b3b2251dc389ace59d74c1212"
 metafile = true
 
 [[files]]

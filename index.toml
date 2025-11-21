@@ -22,7 +22,7 @@ hash = "6e4ae70c0ee44462550ea2b668478794a71ef1448b7ff0ce3d49a255c8e7d992"
 
 [[files]]
 file = "config/barteringstation-server.toml"
-hash = "c72135b7dc64f2c49c34e9ae2ccc746d2c4248d3182a18a712d41e3b9ce02322"
+hash = "672f77195fd7ac92f9cb2dcbd143399d9e950df2efff25a1a73c41005aa5a8d3"
 
 [[files]]
 file = "config/betterdungeons-forge-1_20.toml"
@@ -170,7 +170,7 @@ hash = "b89a5cd69ea8e9ac8e202d1d01052837cfe9de89072045d25ef31e65b7fa4f34"
 
 [[files]]
 file = "config/integrateddynamics-common.toml"
-hash = "f669601e1b27f7d783f5ee2bee4033a239b31008feae891a3a3390d4b6fcc268"
+hash = "371056e6088a9c8de4b0094ebd7075ff082318a74aed6ef9545aac92d523cf54"
 
 [[files]]
 file = "config/jade/hide-blocks.json"
@@ -369,7 +369,7 @@ hash = "cb074021c6f1cefe0a325bf32b764d93b928739ccbafb3a84296410b15f31477"
 
 [[files]]
 file = "config/tradingpost-server.toml"
-hash = "44cf709d6ca034c052df290406a4a077b8cdd49d2c35032f7baf29827fe1f9bf"
+hash = "f0996145c1f645d9dfdff0b1e486ad14c15f0a4adb965cb2d4e3379f7e7ecb2e"
 
 [[files]]
 file = "config/upgrade_aquatic-client.toml"
@@ -846,7 +846,7 @@ metafile = true
 
 [[files]]
 file = "mods/cyclops-core.pw.toml"
-hash = "78de4f5dfb301a36ded77f64f5231da9a6f42c0f728ad7c3abdd1b45ae820fff"
+hash = "6921e786ec0f9d1a782455b815c84aca210f26173756a357a26c32d0866e74dc"
 metafile = true
 
 [[files]]
@@ -1045,11 +1045,6 @@ hash = "c1d1a0476c58e3c011de6f750f48eb4f48493a1b9cef7bd59c008e87e0c0984c"
 metafile = true
 
 [[files]]
-file = "mods/illager-invasion.pw.toml"
-hash = "de2f38aea5766676305ffff2000100c889b9278583379cfa04bba375ff45b6ec"
-metafile = true
-
-[[files]]
 file = "mods/immersive-fixes.pw.toml"
 hash = "2e36b6b750d7de2d2e21dc8bcf7704eeff3ed51dff67caf3f904e583a9bc7073"
 metafile = true
@@ -1061,12 +1056,12 @@ metafile = true
 
 [[files]]
 file = "mods/integrated-crafting.pw.toml"
-hash = "e8090a2e21c7b3f91faea901715bb6b1d48714789ca9c053511e877a72cf4b3a"
+hash = "7e0e21fc74ca613128061fb9642f8d2b98cb59485f86530b836eea21d9bbcf6a"
 metafile = true
 
 [[files]]
 file = "mods/integrated-dynamics.pw.toml"
-hash = "20f79e016da763f64212ee83bb81905d05c908b1c36e49a0fbd00b17db5634e8"
+hash = "4d00b4952c9e5f5f79f8ef0e1033520663025fcf7a9b50072804391f0105e261"
 metafile = true
 
 [[files]]
@@ -1076,12 +1071,12 @@ metafile = true
 
 [[files]]
 file = "mods/integrated-terminals.pw.toml"
-hash = "7d01aa6d84a1e3d27e35c7d4ac7655d6ce49f739f412a1182acef43f25a755b8"
+hash = "5d93d8b2d6cc0d3acb1c569297df76ec6abfa36b16f99fa570df87339c53bf9d"
 metafile = true
 
 [[files]]
 file = "mods/integrated-tunnels.pw.toml"
-hash = "59567326cac8e2586c2ef14a4b71f9d39f4155f57760fb857a4f803db87cb8c4"
+hash = "248cc68e00a3e06f95adc0b56e705d00bac897d7bd9a7bf38d004ec0eb7a8d69"
 metafile = true
 
 [[files]]
@@ -1107,11 +1102,6 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "6d8ca5f4586ae60fe0771ae32a7cb3230030b92fda58d1761c770c24afaa54b2"
-metafile = true
-
-[[files]]
-file = "mods/jump-over-fences.pw.toml"
-hash = "39d576bdf14b906a1e6b11154473f5fb9444919aed049f3841779c9afce65359"
 metafile = true
 
 [[files]]
@@ -1307,11 +1297,6 @@ metafile = true
 [[files]]
 file = "mods/pick-up-notifier.pw.toml"
 hash = "a566e339809d1596f335414f04f8151a56149af191ee3161c2e73a4db7084b3e"
-metafile = true
-
-[[files]]
-file = "mods/piglin-proliferation.pw.toml"
-hash = "b447f99463970b074fcb3003785c7f3a0b01117b3b2251dc389ace59d74c1212"
 metafile = true
 
 [[files]]

@@ -22,7 +22,7 @@ hash = "6e4ae70c0ee44462550ea2b668478794a71ef1448b7ff0ce3d49a255c8e7d992"
 
 [[files]]
 file = "config/barteringstation-server.toml"
-hash = "c72135b7dc64f2c49c34e9ae2ccc746d2c4248d3182a18a712d41e3b9ce02322"
+hash = "672f77195fd7ac92f9cb2dcbd143399d9e950df2efff25a1a73c41005aa5a8d3"
 
 [[files]]
 file = "config/betterdungeons-forge-1_20.toml"
@@ -369,7 +369,7 @@ hash = "cb074021c6f1cefe0a325bf32b764d93b928739ccbafb3a84296410b15f31477"
 
 [[files]]
 file = "config/tradingpost-server.toml"
-hash = "44cf709d6ca034c052df290406a4a077b8cdd49d2c35032f7baf29827fe1f9bf"
+hash = "f0996145c1f645d9dfdff0b1e486ad14c15f0a4adb965cb2d4e3379f7e7ecb2e"
 
 [[files]]
 file = "config/upgrade_aquatic-client.toml"

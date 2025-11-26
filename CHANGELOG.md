@@ -10,6 +10,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Removed
 
 - Removed Biomes O' Plenty
+- Removed Autumnity
+- Removed Upgrade Aquatic
 
 ## 1.20.1-1.0.0-preview4
 

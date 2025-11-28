@@ -54,7 +54,7 @@ hash = "2e9c9d71e1f2ebcc7065fa6bb09f9b3b97e4cf0bb78067182faf56d1fc14886d"
 
 [[files]]
 file = "config/blockrunner.json"
-hash = "b9c0a04aa1b5a1c9350a02a941576af7c46cab6b3251d16ad9e1ebcc8604e66e"
+hash = "29fec9cf06f383238a29276ef226df564968df9590a03ecc4a42a6ccae1dfb14"
 
 [[files]]
 file = "config/brewinandchewin-client.toml"
@@ -561,7 +561,7 @@ hash = "10074c42ccde8071530aad498bd393de915ee9616c184dcb0541c823d70c5b59"
 
 [[files]]
 file = "kubejs/server_scripts/src/blockrunner/tags.js"
-hash = "3cc84735e3cf8b5af2a284b06cd7d6488823cebc0df8980f10d411eb53a94068"
+hash = "ae318f55400ce267009506e0d307443194d8542532eb575399f84a41f8cb8ef8"
 
 [[files]]
 file = "kubejs/server_scripts/src/compat/armors_tags.js"

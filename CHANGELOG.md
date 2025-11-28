@@ -10,12 +10,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 
 - Reworked Immersive Engineering bauxite, lead, silver ore generation
+- Nerfed path blocks speed up
 
 ### Removed
 
 - Removed Biomes O' Plenty
 - Removed Autumnity
 - Removed Upgrade Aquatic
+
+### Fixed
+
+- Endergetic Expansion and Jaden's Nether Expansion path blocks not speeding up
 
 ## 1.20.1-1.0.0-preview4
 

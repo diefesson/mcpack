@@ -584,6 +584,10 @@ file = "kubejs/server_scripts/src/embers/disabled_items.js"
 hash = "64034a65707cdd2482fdb3024a2e8cee593ff97447c90bf7c0299b7b3697b310"
 
 [[files]]
+file = "kubejs/server_scripts/src/farmersdelight/wheat_dough.js"
+hash = "bc6dc128c24fcddc65534c72d618f2296b1795b129c0d89f2b8cb5017c1208ac"
+
+[[files]]
 file = "kubejs/server_scripts/src/minecraft/bell.js"
 hash = "e82b57063b387f7a9dc0537354efe63e4ee330c0e59c603f737c33b60e0c099a"
 

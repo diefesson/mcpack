@@ -11,6 +11,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Reworked Immersive Engineering bauxite, lead, silver ore generation
 - Nerfed path blocks speed up
+- Custom recipe for Farmer's Delight wheat dough
 
 ### Removed
 

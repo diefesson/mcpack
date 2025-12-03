@@ -1556,7 +1556,3 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "16385daa1a7344756b67b3aa35eb4ebde43528313da726977b199fa84246fb37"
-
-[[files]]
-file = "server.properties"
-hash = "899bc4dcb85729d10ec60340311d49e6e9fd55343d8ce022aabd6363200f5787"

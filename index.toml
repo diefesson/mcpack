@@ -704,6 +704,11 @@ hash = "c410ef1d053db4fc3fccde5331fa3ebac561e0e2f6f4babe9110b9c322fbc95a"
 metafile = true
 
 [[files]]
+file = "mods/betterp2p.pw.toml"
+hash = "edd12c354c729f8ad13fe5a86e5a5a1f1b13930b6008ad1b0772f83ef447c1fa"
+metafile = true
+
+[[files]]
 file = "mods/block-runner.pw.toml"
 hash = "3712b4522f5a7ae135af77bc464d39a7c15c3161c8f649c242a842bf82ac40a3"
 metafile = true

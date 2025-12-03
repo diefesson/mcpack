@@ -1,0 +1,13 @@
+name = "Better P2P"
+filename = "betterp2p-1.5.0-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9DDxOvTJ/versions/9fICjMvt/betterp2p-1.5.0-forge.jar"
+hash-format = "sha512"
+hash = "ced1cd946fe0d0e8fef94ee4afad88f7f4e10f94a04b9c08a2fbd709b9d1b0a0b1b2af57d0607c779ef11f66e0ca631bb8dfdd992ed2a5a6cf20701274bbddbc"
+
+[update]
+[update.modrinth]
+mod-id = "9DDxOvTJ"
+version = "9fICjMvt"

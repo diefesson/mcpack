@@ -11,6 +11,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Added `server.properties`
 
+## Changed
+
+- Replaced SkinRestorer with Skin Overrides because of problems setting skins
+
 ## 1.20.1-1.0.0-preview5 - 2025-11-28
 
 ### Changed

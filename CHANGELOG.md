@@ -5,6 +5,38 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## Unreleased
+
+### Added
+
+- Added Simple Backups
+
+### Changed
+
+- Updated Applied Energistics 2
+- Updated Chloride
+- Updated Collective
+- Updated Collectors Reap
+- Updated Common Capabilities
+- Updated Embers Rekindled
+- Updated Emi Loot
+- Updated Entity Culling
+- Updated Integrated Crafting
+- Updated Integrated Dynamics
+- Updated Integrated Terminals
+- Updated Integrated Tunnels
+- Updated Jei Multiblocks
+- Updated Just Enough Items
+- Updated Kotlin for Forge
+- Updated Lootr
+- Updated Modernfix
+- Updated Packet Fixer
+- Updated Sophisticated Backpacks
+- Updated Sophisticated Core
+- Updated Sophisticated Storage
+- Updated Structure Layout Optimizer
+- Updated Watermedia
+
 ## 1.20.1-1.0.0-preview6 - 2025-12-03
 
 ### Added

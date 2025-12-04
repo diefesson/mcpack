@@ -1,13 +1,13 @@
 name = "Just Enough Immersive Multiblocks"
-filename = "jeimultiblocks-1.20.1-1.0.5.jar"
+filename = "jeimultiblocks-1.20.1-1.0.6.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/ffLYPaWN/versions/KttmUEry/jeimultiblocks-1.20.1-1.0.5.jar"
+url = "https://cdn.modrinth.com/data/ffLYPaWN/versions/h8VFHckm/jeimultiblocks-1.20.1-1.0.6.jar"
 hash-format = "sha512"
-hash = "929471325785a38f1d682b07fcdd296eaff6ff1e8e378cfaddd1fcbb84114672f48559a1cf27d8edbb123057ba93bc6b56b25e79ff1a59edc0bc9a0f3833bd57"
+hash = "d427324b381d7301aa960493284107d8c17f69026d41b9e591b7c4a20651c03a254681dece05fd9892540ddc4b255add0a2dca55902e9375b2761c0158601c50"
 
 [update]
 [update.modrinth]
 mod-id = "ffLYPaWN"
-version = "KttmUEry"
+version = "h8VFHckm"

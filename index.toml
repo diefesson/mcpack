@@ -320,6 +320,10 @@ file = "config/scarecrowsterritory-common.toml"
 hash = "3fbf938c34477e60a878df73123bd2d4cab1208bb7c95d22136176309370ed16"
 
 [[files]]
+file = "config/simplebackups-common.toml"
+hash = "119212897a37e458064a5ef1e341a463b075ad3ea227b828ea30ed39debdddd0"
+
+[[files]]
 file = "config/sophisticatedbackpacks-common.toml"
 hash = "67c90bbdfca3c7488d9496df0af4d1be7483634a0c4d179281d1c7c91ef32e7b"
 
@@ -1386,6 +1390,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "b8c7497acbf4890b4609b6b20de7affdd3482fc99af975d9ff6b29c075e1d8a7"
+metafile = true
+
+[[files]]
+file = "mods/simple-backups.pw.toml"
+hash = "673bec523beaddc4727fee8f9f92d3be914bcad580045ec68af43f679d73d3a2"
 metafile = true
 
 [[files]]

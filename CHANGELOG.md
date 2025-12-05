@@ -13,6 +13,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 
+- Changed Xaero World/Mini Map settings
+
+### Updated
+
 - Updated Applied Energistics 2
 - Updated Chloride
 - Updated Collective

@@ -19,7 +19,7 @@ waypoints:true
 renderArrow:true
 displayZoom:true
 worldmapWaypointsScale:1.0
-openMapAnimation:true
+openMapAnimation:false
 reloadVersion:0
 reloadEverything:false
 zoomButtons:true
@@ -28,7 +28,7 @@ detectAmbiguousY:true
 showDisabledWaypoints:false
 closeWaypointsWhenHopping:true
 adjustHeightForCarpetLikeBlocks:true
-onlyCurrentMapWaypoints:false
+onlyCurrentMapWaypoints:true
 minZoomForLocalWaypoints:0.0
 arrowColour:-2
 minimapRadar:true
@@ -36,12 +36,12 @@ renderWaypoints:true
 partialYTeleportation:true
 displayStainedGlass:true
 caveModeDepth:30
-caveModeStart:260
-autoCaveMode:0
+caveModeStart:2147483647
+autoCaveMode:-1
 legibleCaveMaps:false
 displayCaveModeStart:true
 caveModeToggleTimer:1000
-defaultCaveModeType:0
+defaultCaveModeType:1
 biomeBlending:true
 trackedPlayers:true
 multipleImagesExport:false

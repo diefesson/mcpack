@@ -1,6 +1,6 @@
 {
   "modpackMode": false,
-  "fullScreen": "BORDERLESS",
+  "fullScreen": "FULLSCREEN",
   "fpsDisplayMode": "OFF",
   "fpsDisplayAlign": "RIGHT",
   "fpsDisplayVAlign": "TOP",
@@ -20,6 +20,7 @@
   "itemNametagRendering": true,
   "chunkFadeSpeed": "SLOW",
   "darknessMode": "BLACK",
+  "darknessOnFullBrightBiomes": false,
   "darknessOnOverworld": true,
   "darknessOnNether": false,
   "darknessNetherFogBright": 0.5,
@@ -33,6 +34,7 @@
   "darknessNewMoonBright": 0.0,
   "darknessFullMoonBright": 0.35,
   "hideJREMI": false,
+  "hideJREMIHint": false,
   "fontShadows": true,
   "leavesCulling": "ALL",
   "fastChests": false,
@@ -66,7 +68,7 @@
   "tileEntityWhitelist": [
     "waterframes:all"
   ],
-  "borderlessAttachModeF11": "REPLACE",
+  "borderlessAttachModeF11": "ATTACH",
   "fastLanguageReload": true,
   "enableZoom": true,
   "maxZoom": 50.0

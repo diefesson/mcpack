@@ -14,7 +14,7 @@ hash = "ad711622f9b8c5cc8115f52396f5d82587b809fb20cbf9d94c7744aeebcaf4d5"
 
 [[files]]
 file = "config/almostunified/unify.json"
-hash = "0fe143a77e8cae56f51108aa35d2db6264af9b803cc68e3884b955eb52643d30"
+hash = "ab9b943132a4847c59c0e9e10b77df3ef825ffd08cab976f32272796599dadaa"
 
 [[files]]
 file = "config/barteringstation-client.toml"

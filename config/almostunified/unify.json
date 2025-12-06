@@ -5,9 +5,7 @@
     "farmersdelight",
     "immersiveengineering",
     "ae2",
-    "embers",
-    "railcraft",
-    "nuclearcraft"
+    "embers"
   ],
   "stoneStrata": [
     "stone",
@@ -29,9 +27,7 @@
     "forge:rods/{material}",
     "forge:wires/{material}",
     "forge:storage_blocks/{material}",
-    "forge:storage_blocks/raw_{material}",
-    "forge:coal_coke",
-    "forge:cooked_eggs"
+    "forge:storage_blocks/raw_{material}"
   ],
   "materials": [
     "aeternium",
@@ -97,7 +93,7 @@
   "blockTagInheritanceMode": "ALLOW",
   "blockTagInheritance": {},
   "ignoredTags": [],
-  "ignoredItems": ["goety:magic_emerald", "goety:awakened_emerald_block"],
+  "ignoredItems": [],
   "ignoredRecipeTypes": ["cucumber:shaped_tag"],
   "ignoredRecipes": [],
   "itemsHidingJeiRei": true

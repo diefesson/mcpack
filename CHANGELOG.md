@@ -44,7 +44,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Fixed
 
-- Removed incorrect `#forge:cooked_eggs` tag unification 
+- Removed incorrect tag unification for cooked eggs items
+- Disabled Embers silver knife
 
 ## 1.20.1-1.0.0-preview6 - 2025-12-03
 

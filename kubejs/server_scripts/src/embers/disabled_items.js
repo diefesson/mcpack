@@ -4,6 +4,7 @@ let _disabledEmbersItems = [
     'embers:silver_axe',
     'embers:silver_pickaxe',
     'embers:silver_hoe',
+    'embersdelight:silver_knife'
 ]
 
 ServerEvents.recipes(event => {

@@ -585,7 +585,7 @@ hash = "50c0989c7dba4f2a80cd33b35b193a6dbfac3c6aaf310b2cc890bffca787e4db"
 
 [[files]]
 file = "kubejs/server_scripts/src/embers/disabled_items.js"
-hash = "64034a65707cdd2482fdb3024a2e8cee593ff97447c90bf7c0299b7b3697b310"
+hash = "06a5265879f09a74de55177e32dbba8d353ef255a8be7caefd161f6b74cef42a"
 
 [[files]]
 file = "kubejs/server_scripts/src/farmersdelight/wheat_dough.js"

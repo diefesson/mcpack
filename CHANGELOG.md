@@ -46,6 +46,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Removed incorrect tag unification for cooked eggs items
 - Disabled Embers silver knife
+- Solved keybind conflict between Skin Overrides and Chunk Loaders
 
 ## 1.20.1-1.0.0-preview6 - 2025-12-03
 

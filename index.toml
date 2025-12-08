@@ -417,7 +417,7 @@ hash = "fb5dadd6afad423e3fd8d4721e1e55029b1bb28815344432911e75db0d133f72"
 
 [[files]]
 file = "defaultconfigs/framedblocks-server.toml"
-hash = "ec3d4132a1b565069354e2e269c7f4d0974e187e224d1c3a77d2e23e68acccb6"
+hash = "54199e678a9f93fd7d3b0cb91dd7d6a51aa2320d0177ac32843d099bfb1f687f"
 
 [[files]]
 file = "defaultconfigs/immersiveengineering-server.toml"

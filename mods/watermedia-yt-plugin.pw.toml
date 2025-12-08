@@ -1,0 +1,13 @@
+name = "WATERMeDIA: Youtube Plugin"
+filename = "watermedia_youtube_plugin-2.1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/P0w3IrnX/versions/OsFdbKTM/watermedia_youtube_plugin-2.1.0.jar"
+hash-format = "sha512"
+hash = "ad21698705ecd62b907b3a92b561d9f508d392f7fc8c359ae2367c6c497932b2701653d0e0e228c795571f8bbf1fd45245a41e08cf2709e58d68358b2149b3ba"
+
+[update]
+[update.modrinth]
+mod-id = "P0w3IrnX"
+version = "OsFdbKTM"

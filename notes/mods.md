@@ -31,7 +31,7 @@
 
 | Mod                      | Status   | Reason                                       | Info                                                          |
 | ------------------------ | -------- | -------------------------------------------- | ------------------------------------------------------------- |
-| Environmental            | Removal  | Little gameplay value, blocks are pretty tho | Many overworld blocks would disappear                         |
+| Environmental            | Removal  | Little gameplay value, blocks are pretty tho | Many overworld blocks will disappear                          |
 | Neapolitan               | Removal  | Little gameplay value, redundant             | Many blocks would disappear                                   |
 | Abnormals Delight        | Removal  | Little gameplay value                        | Currently only used by Environmental                          |
 | Cavern and Chasms        | Removal  | Little gameplay value                        | Fragile stone/deepslate would disappear, creating air pockets |
@@ -39,3 +39,4 @@
 | Jaden's Nether Expansion | Removal  | Doesn't fit style                            | Many nether blocks would disappear                            |
 | Malum                    | Removal  | Dropped Modrinth support since 1.8 and up    |                                                               |
 | Forbidden and Arcanus    | Addition |                                              | May not fit style                                             |
+| Mowzie's Mobs            | Removal  | Doesn't git style, FA boss bar glitches      | Some structures mobs and loot will disappear                  |

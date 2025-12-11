@@ -31,12 +31,13 @@
 
 | Mod                      | Status   | Reason                                       | Info                                                          |
 | ------------------------ | -------- | -------------------------------------------- | ------------------------------------------------------------- |
-| Environmental            | Removal  | Little gameplay value, blocks are pretty tho | Many overworld blocks will disappear                          |
-| Neapolitan               | Removal  | Little gameplay value, redundant             | Many blocks would disappear                                   |
+| Environmental            | Removal  | Little gameplay value, blocks are pretty tho | Many overworld blocks would disappear                         |
 | Abnormals Delight        | Removal  | Little gameplay value                        | Currently only used by Environmental                          |
+| Neapolitan               | Removal  | Little gameplay value, redundant             | Many blocks would disappear                                   |
 | Cavern and Chasms        | Removal  | Little gameplay value                        | Fragile stone/deepslate would disappear, creating air pockets |
 | Savage and Ravage        | Removal  | Little gameplay value, doesn't fit style     | Little value for progression                                  |
+| Endergetic Expansion     | Removal  | Little gameplay value, doesn't fit style     | Many end blocks would disappear                               |
 | Jaden's Nether Expansion | Removal  | Doesn't fit style                            | Many nether blocks would disappear                            |
 | Malum                    | Removal  | Dropped Modrinth support since 1.8 and up    |                                                               |
 | Forbidden and Arcanus    | Addition |                                              | May not fit style                                             |
-| Mowzie's Mobs            | Removal  | Doesn't git style, FA boss bar glitches      | Some structures mobs and loot will disappear                  |
+| Mowzie's Mobs            | Removal  | Doesn't git style, FA boss bar glitches      | Some structures mobs and loot would disappear                 |

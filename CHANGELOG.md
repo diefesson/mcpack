@@ -18,6 +18,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Changed Chloride fullscreen settings
 - Reenabled FramedBlocks consumption of camo items
 - Disabled sweeping edge requirement for sweeping attack
+- Reduced Leaves Be Gone maximum decay ticks
 
 ### Updated
 

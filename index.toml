@@ -193,6 +193,10 @@ file = "config/jade/sort-order.json"
 hash = "54922c84b352b22a19c9d2c1f2f236851778bc9903aa21a858c84e221bff8987"
 
 [[files]]
+file = "config/leavesbegone-server.toml"
+hash = "c7f8dbc8d2a2e408dfc2fe21abd9888a7767a2fdc6128f7890ce02582768d427"
+
+[[files]]
 file = "config/legendarytooltips-common.toml"
 hash = "3e5e4b016138414ec741e39e52233dc6be81f286e5e84fc2af055c45b2d8e82e"
 

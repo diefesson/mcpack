@@ -86,7 +86,7 @@ hash = "23d4c328e4e061bf7d3599864fb1253b61a75dcaf183371951e0bf9f08119c58"
 
 [[files]]
 file = "config/combatnouveau-server.toml"
-hash = "298e8f7668f4d3ceb737afe3940639cfad125c93d2a1dff51bdc7522045edfc4"
+hash = "f2a14e0d3a425871bafa4648f0d25ab01682eea948246261865ffc390671facf"
 
 [[files]]
 file = "config/delightful-common.toml"

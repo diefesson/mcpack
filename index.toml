@@ -25,6 +25,10 @@ file = "config/barteringstation-server.toml"
 hash = "672f77195fd7ac92f9cb2dcbd143399d9e950df2efff25a1a73c41005aa5a8d3"
 
 [[files]]
+file = "config/bcc-common.toml"
+hash = "028e153dfe2667ffd67b87f47f24ade6f0aae9aa7b363988456c745453d9ad98"
+
+[[files]]
 file = "config/betterdungeons-forge-1_20.toml"
 hash = "67e7e94693c7ca0945fe1b7e08639cdf4faad9a8e1eec2b029bf414539113753"
 
@@ -709,6 +713,11 @@ metafile = true
 [[files]]
 file = "mods/berry-good.pw.toml"
 hash = "c410ef1d053db4fc3fccde5331fa3ebac561e0e2f6f4babe9110b9c322fbc95a"
+metafile = true
+
+[[files]]
+file = "mods/better-compatibility-checker.pw.toml"
+hash = "e023a398e781e713ffd98dda17c91c26b2750a1643b898842ae6eff47d57286d"
 metafile = true
 
 [[files]]

@@ -11,6 +11,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Added Simple Backups
 - Added WaterMedia YouTube Plugin
+- Added Better Compatibility Checker
 
 ### Changed
 

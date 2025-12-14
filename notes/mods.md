@@ -39,5 +39,10 @@
 | Endergetic Expansion     | Removal  | Little gameplay value, doesn't fit style     | Many end blocks would disappear                               |
 | Jaden's Nether Expansion | Removal  | Doesn't fit style                            | Many nether blocks would disappear                            |
 | Malum                    | Removal  | Dropped Modrinth support since 1.8 and up    |                                                               |
-| Forbidden and Arcanus    | Addition |                                              | May not fit style                                             |
-| Mowzie's Mobs            | Removal  | Doesn't git style, FA boss bar glitches      | Some structures mobs and loot would disappear                 |
+| Mowzie's Mobs            | Removal  | Doesn't fit style, FA boss bar glitches      | Some structures mobs and loot would disappear                 |
+| Delightful               | Removal  | Missing on 1.21.1, OP                        | Many food and crops would disappear                           |
+| Collector's Reap         | Removal  | Missing on 1.21.1, OP                        | Many food and crops would disappear                           |
+| Pancake Delight          | Addition | Complements Rustic Delight                   |                                                               |
+| Miner's Delight          | Addition | May fill some content gap                    |                                                               |
+| Dungeon Delight          | Addition | May fill some content gap                    |                                                               |
+| Waystones                | Addition | Make long range transport feasible           | Consider disabling world gen, increasing XP costs             |

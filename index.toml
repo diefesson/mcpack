@@ -69,14 +69,6 @@ file = "config/brewinandchewin-common.toml"
 hash = "05bfa43386f9f2ad3b927749765e301944c0abb060ff8cf751f170ea989d6217"
 
 [[files]]
-file = "config/caverns_and_chasms-client.toml"
-hash = "ac4fad73b20151ee9f0de09dcc137310e5dcb44b68164c1d739eb562de848992"
-
-[[files]]
-file = "config/caverns_and_chasms-common.toml"
-hash = "2697f81d15401de3729b765a4f5e80095e70710cfa4236c1e280cfaa9d1471fd"
-
-[[files]]
 file = "config/chloride-client.json"
 hash = "ff7b3ac0d0bd4eb9c6d71ec7dfa868dec3cbc66963a44be9df22f38ced90d31b"
 
@@ -314,14 +306,6 @@ hash = "8a456f5bdac4e667bea52c6b0027aa43aa13401b8783b4a95d2ae28bdbee7ced"
 [[files]]
 file = "config/rusticdelight-common.toml"
 hash = "63f678926c25488219ed817e52233021caffa11532871c827be8e480822f12e2"
-
-[[files]]
-file = "config/savage_and_ravage-client.toml"
-hash = "e441a4d0d6f8ca65617c56691c044351fd49da819a39b251e8389d1a9be7e990"
-
-[[files]]
-file = "config/savage_and_ravage-common.toml"
-hash = "67991d380168181af973faa324d54f8208c3989e4a2e5ffc974f9a3d4c4bcfec"
 
 [[files]]
 file = "config/scarecrowsterritory-common.toml"
@@ -592,10 +576,6 @@ file = "kubejs/server_scripts/src/diefalpha/volatile_dust.js"
 hash = "50c0989c7dba4f2a80cd33b35b193a6dbfac3c6aaf310b2cc890bffca787e4db"
 
 [[files]]
-file = "kubejs/server_scripts/src/embers/disabled_items.js"
-hash = "06a5265879f09a74de55177e32dbba8d353ef255a8be7caefd161f6b74cef42a"
-
-[[files]]
 file = "kubejs/server_scripts/src/farmersdelight/wheat_dough.js"
 hash = "bc6dc128c24fcddc65534c72d618f2296b1795b129c0d89f2b8cb5017c1208ac"
 
@@ -634,11 +614,6 @@ hash = "3822093353741befa4d356069d1a636611d2d626c659aa3f8059132dfd7cadc5"
 [[files]]
 file = "kubejs/startup_scripts/src/diefalpha/volatile_dust.js"
 hash = "6ab3b1cbfdbc6049f5ddbed61bcfc7f9468a84ebef6b4854a35cef8301bbbf0d"
-
-[[files]]
-file = "mods/abnormals-delight.pw.toml"
-hash = "26ebcc24106ded2bec288547aba566a6ca92fd685c23d1a6221765f6f3f3e5c9"
-metafile = true
 
 [[files]]
 file = "mods/ae2-import-export-card.pw.toml"
@@ -753,11 +728,6 @@ metafile = true
 [[files]]
 file = "mods/capability-proxy.pw.toml"
 hash = "140eba48dd1dc36950b23c82e60fb350103321688715b48042e88344e15293d5"
-metafile = true
-
-[[files]]
-file = "mods/caverns-and-chasms.pw.toml"
-hash = "77eb951aea38d711bb8bddd89b66b65a2ce7423d93525843a409b57e03f02fa1"
 metafile = true
 
 [[files]]
@@ -961,11 +931,6 @@ hash = "16b4a8a6c29d642b83ccfb68729c6520928fef115551d43aa301da72ca9498cd"
 metafile = true
 
 [[files]]
-file = "mods/endergetic.pw.toml"
-hash = "ac8886608c2af5d3406068dab4b29e63317aaee35c4a9565535f28d717cc8194"
-metafile = true
-
-[[files]]
 file = "mods/engineered-compatibility.pw.toml"
 hash = "d101ff458c12295e3d292a0efab484ed48ad6d2540c7232007091c6d8c174db4"
 metafile = true
@@ -973,11 +938,6 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "7b32032b0892b53e1e5daf5410b78b4d98b7bdcbe2184f1d643098de36674865"
-metafile = true
-
-[[files]]
-file = "mods/environmental.pw.toml"
-hash = "1ff23d210c947a09096700a77bc33020610fcab02ad81a6aa50b0b638f5f873d"
 metafile = true
 
 [[files]]
@@ -1388,11 +1348,6 @@ metafile = true
 [[files]]
 file = "mods/rustic-delight.pw.toml"
 hash = "8a20275515fe7247642bab8af4095ff96efeb313467cd6c465d5696fef41c9a9"
-metafile = true
-
-[[files]]
-file = "mods/savage-and-ravage.pw.toml"
-hash = "3b607bcbc0a27adf49a2faf873e74187a3b2d0a9ca0cd1626bdf7719bdafd75b"
 metafile = true
 
 [[files]]

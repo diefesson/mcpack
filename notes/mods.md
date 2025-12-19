@@ -32,9 +32,7 @@
 | Mod                      | Status   | Reason                                       | Info                                                          |
 | ------------------------ | -------- | -------------------------------------------- | ------------------------------------------------------------- |
 | Neapolitan               | Removal  | Little gameplay value, redundant             | Many blocks would disappear                                   |
-| Jaden's Nether Expansion | Removal  | Doesn't fit style                            | Many nether blocks would disappear                            |
 | Malum                    | Removal  | Dropped Modrinth support since 1.8 and up    |                                                               |
-| Mowzie's Mobs            | Removal  | Doesn't fit style, FA boss bar glitches      | Some structures mobs and loot would disappear                 |
 | Delightful               | Removal  | Missing on 1.21.1, OP                        | Many food and crops would disappear                           |
 | Collector's Reap         | Removal  | Missing on 1.21.1, OP                        | Many food and crops would disappear                           |
 | Pancake Delight          | Addition | Complements Rustic Delight                   |                                                               |

@@ -31,10 +31,7 @@
 
 | Mod                      | Status   | Reason                                       | Info                                                          |
 | ------------------------ | -------- | -------------------------------------------- | ------------------------------------------------------------- |
-| Neapolitan               | Removal  | Little gameplay value, redundant             | Many blocks would disappear                                   |
 | Malum                    | Removal  | Dropped Modrinth support since 1.8 and up    |                                                               |
-| Delightful               | Removal  | Missing on 1.21.1, OP                        | Many food and crops would disappear                           |
-| Collector's Reap         | Removal  | Missing on 1.21.1, OP                        | Many food and crops would disappear                           |
 | Pancake Delight          | Addition | Complements Rustic Delight                   |                                                               |
 | Miner's Delight          | Addition | May fill some content gap                    |                                                               |
 | Dungeon Delight          | Addition | May fill some content gap                    |                                                               |

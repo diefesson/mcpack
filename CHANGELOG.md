@@ -18,6 +18,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Removed some mob mods
   - Jaden's Nether Expansion
   - Mowzie's Mobs
+- Removed some food mods
+  - Brewin' and Chewin'
+  - Collectors Reap
+  - Delightful
+  - Neapolitan
 
 ## 1.20.1-1.0.0-preview7 - 2025-12-12
 

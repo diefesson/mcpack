@@ -61,14 +61,6 @@ file = "config/blockrunner.json"
 hash = "29fec9cf06f383238a29276ef226df564968df9590a03ecc4a42a6ccae1dfb14"
 
 [[files]]
-file = "config/brewinandchewin-client.toml"
-hash = "c44adab82486a8905129e69ef0bc2cfc2946e26e78cc3939ee1b87d1665e2b75"
-
-[[files]]
-file = "config/brewinandchewin-common.toml"
-hash = "05bfa43386f9f2ad3b927749765e301944c0abb060ff8cf751f170ea989d6217"
-
-[[files]]
 file = "config/chloride-client.json"
 hash = "ff7b3ac0d0bd4eb9c6d71ec7dfa868dec3cbc66963a44be9df22f38ced90d31b"
 
@@ -83,10 +75,6 @@ hash = "23d4c328e4e061bf7d3599864fb1253b61a75dcaf183371951e0bf9f08119c58"
 [[files]]
 file = "config/combatnouveau-server.toml"
 hash = "f2a14e0d3a425871bafa4648f0d25ab01682eea948246261865ffc390671facf"
-
-[[files]]
-file = "config/delightful-common.toml"
-hash = "f97a261e44db861e0400eaa27a006f4ccbd199d6c4ce2758c1924ff30723ca10"
 
 [[files]]
 file = "config/distraction_free_recipes-client.toml"
@@ -717,11 +705,6 @@ hash = "02062a6b61e230e7debaf1c03d5e1e7203e427588fceb9f3d6ef8cad8062397e"
 metafile = true
 
 [[files]]
-file = "mods/brewin-and-chewin.pw.toml"
-hash = "d47b75b30e711de67e9de2ce05fd5979a89e5aacb5c0fd036c6f9466b1da2665"
-metafile = true
-
-[[files]]
 file = "mods/capability-proxy.pw.toml"
 hash = "140eba48dd1dc36950b23c82e60fb350103321688715b48042e88344e15293d5"
 metafile = true
@@ -782,11 +765,6 @@ hash = "d47260d085f9c59609bbc7582968e60f4c476d934c815142360bbcc4b5113a4d"
 metafile = true
 
 [[files]]
-file = "mods/collectors-reap.pw.toml"
-hash = "8343d3fe87c3d3db8baca69052500a680abf39469577a8f806318efbf810648a"
-metafile = true
-
-[[files]]
 file = "mods/combat-nouveau.pw.toml"
 hash = "edc2e3529690c08648a94d72876f0d2fa99f0d3b8f08a4338a9d3fe7834cfc79"
 metafile = true
@@ -839,11 +817,6 @@ metafile = true
 [[files]]
 file = "mods/cyclops-core.pw.toml"
 hash = "6921e786ec0f9d1a782455b815c84aca210f26173756a357a26c32d0866e74dc"
-metafile = true
-
-[[files]]
-file = "mods/delightful.pw.toml"
-hash = "0f2101fa1d95b52baa3aa1dccb587371c7e4fd5812d3ad4dca7b427feb8fe6dd"
 metafile = true
 
 [[files]]
@@ -1194,11 +1167,6 @@ metafile = true
 [[files]]
 file = "mods/nbt-autocomplete.pw.toml"
 hash = "997cb276aa38c339f56b6c08107410ff908d9a52b2459184c365107baf636155"
-metafile = true
-
-[[files]]
-file = "mods/neapolitan.pw.toml"
-hash = "bf2f88caa86cf5f54de608794fa1ca696e873c9021d2fafbfd694df1fbde695d"
 metafile = true
 
 [[files]]

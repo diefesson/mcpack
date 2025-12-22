@@ -20,6 +20,7 @@
 | Collector's Reap                       | Not updated yet |
 | EMI Trades                             | Not updated yet |
 | Species                                | Not updated yet |
+| Goety                                  | Not updated yet |
 | Polymorphic Energistics                | 1.21 marked     |
 | Highlight                              | 1.21 marked     |
 | Suggestion Provider Fix                | 1.21 marked     |
@@ -29,10 +30,10 @@
 
 ## Under evaluation
 
-| Mod                      | Status   | Reason                                       | Info                                                          |
-| ------------------------ | -------- | -------------------------------------------- | ------------------------------------------------------------- |
-| Malum                    | Removal  | Dropped Modrinth support since 1.8 and up    |                                                               |
-| Pancake Delight          | Addition | Complements Rustic Delight                   |                                                               |
-| Miner's Delight          | Addition | May fill some content gap                    |                                                               |
-| Dungeon Delight          | Addition | May fill some content gap                    |                                                               |
-| Waystones                | Addition | Make long range transport feasible           | Consider disabling world gen, increasing XP costs             |
+| Mod             | Status   | Reason                                    | Info                                              |
+| --------------- | -------- | ----------------------------------------- | ------------------------------------------------- |
+| Malum           | Removal  | Dropped Modrinth support since 1.8 and up |                                                   |
+| Pancake Delight | Addition | Complements Rustic Delight                |                                                   |
+| Miner's Delight | Addition | May fill some content gap                 |                                                   |
+| Dungeon Delight | Addition | May fill some content gap                 |                                                   |
+| Waystones       | Addition | Make long range transport feasible        | Consider disabling world gen, increasing XP costs |

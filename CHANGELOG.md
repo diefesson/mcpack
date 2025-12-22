@@ -23,6 +23,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - Collectors Reap
   - Delightful
   - Neapolitan
+- Added Goety
 
 ## 1.20.1-1.0.0-preview7 - 2025-12-12
 

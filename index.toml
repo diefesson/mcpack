@@ -1360,11 +1360,6 @@ hash = "0be4976227df8e261fd362889bf8e85b93e224d1b1c3cd2a11b73a9de3b64083"
 metafile = true
 
 [[files]]
-file = "mods/species.pw.toml"
-hash = "50d0cb105f5db0a982d9c00f5ea6aee826866576b796526686ab0877c912e968"
-metafile = true
-
-[[files]]
 file = "mods/starter-kit.pw.toml"
 hash = "e56e60b6dabffd4b2332ed19c62e6455b7d78a9fb58c810d2185739575c9448a"
 metafile = true

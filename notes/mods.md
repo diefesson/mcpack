@@ -13,11 +13,6 @@
 | Embers Rekindled                       | Not updated yet |
 | Aetherworks Refracted                  | Not updated yet |
 | Embers' Delight                        | Not updated yet |
-| Caverns & Chasms                       | Not updated yet |
-| Savage & Ravage                        | Not updated yet |
-| The Endergetic Expansion               | Not updated yet |
-| Delightful                             | Not updated yet |
-| Collector's Reap                       | Not updated yet |
 | EMI Trades                             | Not updated yet |
 | Species                                | Not updated yet |
 | Goety                                  | Not updated yet |
@@ -30,6 +25,5 @@
 
 ## Under evaluation
 
-| Mod             | Status   | Reason                                    | Info                                              |
-| --------------- | -------- | ----------------------------------------- | ------------------------------------------------- |
-| Malum           | Removal  | Dropped Modrinth support since 1.8 and up |                                                   |
+| Mod | Status | Reason | Info |
+| --- | ------ | ------ | ---- |

@@ -557,7 +557,7 @@ hash = "da1c1cfe7f1f30a3d45124138dd15e576ca5c35d58a98bc812b73f5dac4a013b"
 
 [[files]]
 file = "kubejs/server_scripts/src/diefalpha/volatile_dust.js"
-hash = "50c0989c7dba4f2a80cd33b35b193a6dbfac3c6aaf310b2cc890bffca787e4db"
+hash = "1faf20d536b26a26b80d871bf0a43f1fb7a3f74881328b8d85e3da69d6638371"
 
 [[files]]
 file = "kubejs/server_scripts/src/farmersdelight/wheat_dough.js"

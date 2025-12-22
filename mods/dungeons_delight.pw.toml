@@ -1,0 +1,13 @@
+name = "Dungeon's Delight"
+filename = "forge-dungeonsdelight-1.20.1-1.2.10.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qPfNr476/versions/rDboPrwk/forge-dungeonsdelight-1.20.1-1.2.10.jar"
+hash-format = "sha512"
+hash = "fd676f83bc21bf6b8c4e60731e50154a9c027db1581e79dc149878db12737ca1a51c472d11a600816fd332bcb436feb62ca9f30c08d05043414b3547584bfc34"
+
+[update]
+[update.modrinth]
+mod-id = "qPfNr476"
+version = "rDboPrwk"

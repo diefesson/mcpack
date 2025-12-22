@@ -24,6 +24,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - Delightful
   - Neapolitan
 - Added Goety
+- Added Dungeon's Delight
 
 ## 1.20.1-1.0.0-preview7 - 2025-12-12
 

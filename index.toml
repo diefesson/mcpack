@@ -835,6 +835,11 @@ hash = "8143c63aa2e53fd78ea83eddba9cfaa4c036141aae6604eb01d8f82dc5d03c99"
 metafile = true
 
 [[files]]
+file = "mods/dungeons_delight.pw.toml"
+hash = "5a9c0b4bb162a8edfd2541b4d30e691b98e389068e5a9c6f9d9b4248ad7a5044"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "a4c814876cd9046f9cdbe0a5967edff092adb8c28de2d717ce5fe469d6fbc9a2"
 metafile = true
@@ -1297,6 +1302,11 @@ metafile = true
 [[files]]
 file = "mods/rhino.pw.toml"
 hash = "5b92406160d9ea8a61ddf111caaecb7f6283678e2c40b08b72dce3eeaf20dc96"
+metafile = true
+
+[[files]]
+file = "mods/runiclib.pw.toml"
+hash = "2dbe8c4d2e526717bb37fca847e0d7e42c2f65575e90883b096a2cd2787ccb30"
 metafile = true
 
 [[files]]

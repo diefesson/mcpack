@@ -33,7 +33,3 @@
 | Mod             | Status   | Reason                                    | Info                                              |
 | --------------- | -------- | ----------------------------------------- | ------------------------------------------------- |
 | Malum           | Removal  | Dropped Modrinth support since 1.8 and up |                                                   |
-| Pancake Delight | Addition | Complements Rustic Delight                |                                                   |
-| Miner's Delight | Addition | May fill some content gap                 |                                                   |
-| Dungeon Delight | Addition | May fill some content gap                 |                                                   |
-| Waystones       | Addition | Make long range transport feasible        | Consider disabling world gen, increasing XP costs |

@@ -297,7 +297,7 @@ hash = "3fbf938c34477e60a878df73123bd2d4cab1208bb7c95d22136176309370ed16"
 
 [[files]]
 file = "config/simplebackups-common.toml"
-hash = "119212897a37e458064a5ef1e341a463b075ad3ea227b828ea30ed39debdddd0"
+hash = "a0ad1c4b35b0f25c8bccdea2c9d09461eeb9c073a323328d759e02c8c761123d"
 
 [[files]]
 file = "config/sophisticatedbackpacks-common.toml"

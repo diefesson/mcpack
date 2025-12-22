@@ -12,6 +12,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Added Goety
 - Added Dungeon's Delight
 
+### Changed
+
+- Tweaked Simple Backups
+
 ### Removed
 
 - Abnormals Delight

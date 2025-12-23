@@ -10,7 +10,7 @@
 	max_programming_area = 250000
 	#Fluids at least as hot as this temperature (Kelvin) will be auto-registered as Liquid Compressor fuels, the quality being dependent on fluid temperature.
 	#Range: > 0
-	min_fluid_fuel_temperature = 373
+	min_fluid_fuel_temperature = 99999
 	#Should dyes be used up when coloring things (Drones, Logistics Modules, Redstone Modules)?
 	use_up_dyes_when_coloring = false
 	#Cooldown, in ticks, between subsequent uses of Bandages. Set to 0 to disable cooldowns entirely.
@@ -306,7 +306,7 @@
 	#Range: 0.0 ~ 10.0
 	ambientTemperatureHeightModifier = 0.1
 	#Automatically register heat properties for all detected modded fluids based on their self-defined temperature? (note: vanilla lava and water are always added)
-	addDefaultFluidEntries = true
+	addDefaultFluidEntries = false
 
 [Logistics]
 	#Logistics Module air usage per item per block distance

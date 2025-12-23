@@ -540,6 +540,10 @@ file = "kubejs/server_scripts/src/ae2/hide_facades.js"
 hash = "7e44709d924d9cd1d2d4f34a73a426b52671fa0d386b978af3376550f9fc5f5c"
 
 [[files]]
+file = "kubejs/server_scripts/src/aileron/elytra.js"
+hash = "58b5c74ef40672f4dabec6bdbb26709ed1ef926c10a81ddee4eadef1d72c6ea3"
+
+[[files]]
 file = "kubejs/server_scripts/src/aileron/tags.js"
 hash = "13323ecf418ca4282d1cbf6840a9c83a9631345564a00dd742c0f61be6b929de"
 

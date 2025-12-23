@@ -12,6 +12,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Added Goety
 - Added Dungeon's Delight
 - Added Aileron
+- Added recipe for elytra
 
 ### Changed
 

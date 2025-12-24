@@ -30,7 +30,7 @@ hash = "672f77195fd7ac92f9cb2dcbd143399d9e950df2efff25a1a73c41005aa5a8d3"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "028e153dfe2667ffd67b87f47f24ade6f0aae9aa7b363988456c745453d9ad98"
+hash = "0cde794ce3cd3c248692e9e5d208ab9758b4e424bc446f46e524c850ad463893"
 
 [[files]]
 file = "config/betterdungeons-forge-1_20.toml"

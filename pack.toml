@@ -1,12 +1,12 @@
 name = "DiefAlpha MCPack"
 author = "DieAlpha"
-version = "1.20.1-1.0.0-dev"
+version = "1.20.1-1.0.0-preview8"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "52b4eddff580364f7d49125695bf4fbb05f8112d5623bce81d29d83cfd51f76e"
+hash = "c224f6c26232a7c88b9d5f331854a5b3e429fe6b25b0a44d298a334ccc310a12"
 
 [versions]
 forge = "47.4.0"

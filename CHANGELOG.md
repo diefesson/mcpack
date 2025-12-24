@@ -22,18 +22,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Removed
 
-- Abnormals Delight
-- Caverns and Chasms
-- Endergetic Expansion
-- Environmental
-- Savage and ravage
+- Removed Abnormals Delight
+- Removed Caverns and Chasms
+- Removed Endergetic Expansion
+- Removed Environmental
+- Removed Savage and ravage
 - Removed Species
-- Jaden's Nether Expansion
-- Mowzie's Mobs
-- Brewin' and Chewin'
-- Collectors Reap
-- Delightful
-- Neapolitan
+- Removed Jaden's Nether Expansion
+- Removed Mowzie's Mobs
+- Removed Brewin' and Chewin'
+- Removed Collectors Reap
+- Removed Delightful
+- Removed Neapolitan
 
 ## 1.20.1-1.0.0-preview7 - 2025-12-12
 

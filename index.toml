@@ -78,7 +78,7 @@ hash = "23d4c328e4e061bf7d3599864fb1253b61a75dcaf183371951e0bf9f08119c58"
 
 [[files]]
 file = "config/combatnouveau-server.toml"
-hash = "f2a14e0d3a425871bafa4648f0d25ab01682eea948246261865ffc390671facf"
+hash = "3bde9a4766577a596cef61cf1d6473309dfe85197b48aac311ae7778910f8c74"
 
 [[files]]
 file = "config/distraction_free_recipes-client.toml"

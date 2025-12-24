@@ -20,6 +20,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Updated volatile dust recipe
 - Disabled PNC:R auto fluid fuel and heat from temperature
 - Updated README.md
+- Enabled Combat Nouveau balanced food mechanics
 
 ### Removed
 

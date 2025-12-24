@@ -19,6 +19,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Tweaked Simple Backups
 - Updated volatile dust recipe
 - Disabled PNC:R auto fluid fuel and heat from temperature
+- Updated README.md
 
 ### Removed
 

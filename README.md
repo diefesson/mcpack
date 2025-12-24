@@ -2,13 +2,13 @@
 
 A modpack without a specific theme and oriented to the tastes of my friends. With every big iteration focusing on experiment new things. Making extensive use of configuration, datapacks and KubeJS to ensure things work well together
 
-The current iteration (5th) has a heavy focus on tech (Immersive Engineering, PneumatiCraft Repressurized and Embers Rekindled) with just a bit of magic (Malum and Hexerei). Valuing gameplay and removing most visual mods of previous iterations
+The current iteration (5th) has a heavy focus on tech (Immersive Engineering, PneumatiCraft Repressurized and Embers Rekindled) with a fair share of magic (Malum, Hexerei and Goety). Valuing gameplay and removing most visual mods of previous iterations
 
 Storage and logistics make use of a Sophisticated Storage/Backpacks (both significantly nerfed), Integrated Dynamics and Applied Energistics 2
 
 Furthermore the current version heavily changed the criteria for structure mods. Now focusing on navigability, challenge, consistency and dynamics (the structure as a place where something happens)
 
-Farmer's Delight addons were limited to ones that expand or work well with Team Abnormals mods
+Farmer's Delight addons were limited to ones that make use of effects and add new mechanics
 
 Current iteration is currently in dev so expect large changes, bugfixes and tweaks in the future
 
@@ -36,13 +36,3 @@ Points to judge such mods:
 - Challenges: be it mobs, traps or puzzles. These should be beatable and fair on survival.
 - Consistency: the structure should not be composed of dozens of non sense blocks just because it looks pretty.
 - Dynamics: the structure should be a place where something happens and not a lifeless static set of blocks.
-
-## Performance
-
-The modpack should be playable on wide range of machines.
-
-The following objectives should be maintained:
-
-- Singleplayer gameplay should run at 60 FPS and 20 TPS on machines limited to integrated graphics and 4 GB memory without significant problems.
-- Multiplayer should be possible without the need of a dedicated server and scale up to 4+ players while keeping the MSPT bellow 50 ms.
-- Dedicated servers should scale up to 10+ players while keeping the MSPT bellow 50 ms.

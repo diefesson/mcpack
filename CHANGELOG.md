@@ -11,6 +11,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Greatly reduced rails cost
 
+### Removed
+
+- Removed custom elytra recipe
+
 ## 1.20.1-1.0.0-preview8 - 2025-12-24
 
 ### Added 

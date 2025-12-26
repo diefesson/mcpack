@@ -30,7 +30,7 @@ hash = "672f77195fd7ac92f9cb2dcbd143399d9e950df2efff25a1a73c41005aa5a8d3"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "0cde794ce3cd3c248692e9e5d208ab9758b4e424bc446f46e524c850ad463893"
+hash = "028e153dfe2667ffd67b87f47f24ade6f0aae9aa7b363988456c745453d9ad98"
 
 [[files]]
 file = "config/betterdungeons-forge-1_20.toml"
@@ -576,6 +576,10 @@ file = "kubejs/server_scripts/src/farmersdelight/wheat_dough.js"
 hash = "bc6dc128c24fcddc65534c72d618f2296b1795b129c0d89f2b8cb5017c1208ac"
 
 [[files]]
+file = "kubejs/server_scripts/src/framedblocks/rails.js"
+hash = "2ddd40f936ef95c9c5ad04bfa3fc6d3bb3ca4db8abbb49d368af3d6218eae7a5"
+
+[[files]]
 file = "kubejs/server_scripts/src/minecraft/bell.js"
 hash = "e82b57063b387f7a9dc0537354efe63e4ee330c0e59c603f737c33b60e0c099a"
 
@@ -590,6 +594,10 @@ hash = "e5931c68f476ab8c6767a8fcc3f116e4a873726c49875cfb54f743043f88814f"
 [[files]]
 file = "kubejs/server_scripts/src/minecraft/name_tag.js"
 hash = "fbe34f1274ee9664ad2a11c42d3a71228fac622537d8336bc68b816071bb9fba"
+
+[[files]]
+file = "kubejs/server_scripts/src/minecraft/rails.js"
+hash = "2d12507ef3e26be9864829a87e616916957f2a38e42097fc6ef4cf02d6ca5376"
 
 [[files]]
 file = "kubejs/server_scripts/src/minecraft/sherd_duplication.js"

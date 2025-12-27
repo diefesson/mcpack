@@ -14,6 +14,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Removed
 
 - Removed custom elytra recipe
+- Removed Aileron
+- Removed Immersive Engineering's glider
 
 ## 1.20.1-1.0.0-preview8 - 2025-12-24
 

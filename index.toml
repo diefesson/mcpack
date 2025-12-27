@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/aileron.json"
-hash = "df5ae243f289a2ad1321c288d88a7bdbe85371983ae9daf5fdad4571cc42bb4c"
-
-[[files]]
 file = "config/almostunified/debug.json"
 hash = "3e03a291b5310a6b94a45aff63e4731baa643701c42a968ed716483ccd1d5a37"
 
@@ -540,16 +536,12 @@ file = "kubejs/server_scripts/src/ae2/hide_facades.js"
 hash = "7e44709d924d9cd1d2d4f34a73a426b52671fa0d386b978af3376550f9fc5f5c"
 
 [[files]]
-file = "kubejs/server_scripts/src/aileron/tags.js"
-hash = "13323ecf418ca4282d1cbf6840a9c83a9631345564a00dd742c0f61be6b929de"
-
-[[files]]
 file = "kubejs/server_scripts/src/base/get_preferred.js"
 hash = "10074c42ccde8071530aad498bd393de915ee9616c184dcb0541c823d70c5b59"
 
 [[files]]
 file = "kubejs/server_scripts/src/blockrunner/tags.js"
-hash = "ae318f55400ce267009506e0d307443194d8542532eb575399f84a41f8cb8ef8"
+hash = "397f040cd85c48746a28ca04bd71ccd22f8cf6ebf3279d99e6d4bffb804f88d1"
 
 [[files]]
 file = "kubejs/server_scripts/src/compat/armors_tags.js"
@@ -574,6 +566,10 @@ hash = "bc6dc128c24fcddc65534c72d618f2296b1795b129c0d89f2b8cb5017c1208ac"
 [[files]]
 file = "kubejs/server_scripts/src/framedblocks/rails.js"
 hash = "2ddd40f936ef95c9c5ad04bfa3fc6d3bb3ca4db8abbb49d368af3d6218eae7a5"
+
+[[files]]
+file = "kubejs/server_scripts/src/immersiveengineering/disable_glider.js"
+hash = "93e82ddd22ff92f6731b2a3ea03aa96ad7a942ae87882afd1971e410444cadfb"
 
 [[files]]
 file = "kubejs/server_scripts/src/minecraft/bell.js"
@@ -633,11 +629,6 @@ metafile = true
 [[files]]
 file = "mods/aetherworks-refracted.pw.toml"
 hash = "c0357571feb9c91393f8b3d45ab94be490a32621394b6e1568146074b1c00d3d"
-metafile = true
-
-[[files]]
-file = "mods/aileron.pw.toml"
-hash = "113e37aa4e5bac2393393de14548f5d1dc854830c89ab0c02af221b8c0bee610"
 metafile = true
 
 [[files]]
